@@ -17,7 +17,7 @@
 
 ### Demo Screeshots
 
-![Cryptocurrency Live Price Tracker Desktop Demo](./readme-img/Cryptocurrency-Live-Price-Tracker.png "Desktop Demo")
+![Cryptocurrency Live Price Tracker Desktop Demo](./assets/readme-img/Cryptocurrency-Live-Price-Tracker.png "Desktop Demo")
 
 ### Prerequisites
 
